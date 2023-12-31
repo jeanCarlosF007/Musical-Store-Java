@@ -1,0 +1,1 @@
+Na classe UserResource não há tratamento de erros.
